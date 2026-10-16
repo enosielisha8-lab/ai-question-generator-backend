@@ -1,0 +1,6 @@
+{
+  "$schema": "https://raw.githubusercontent.com/cloudflare/workers-sdk/main/packages/wrangler/config-schema.json",
+  "name": "wandering-fire-a447",
+  "main": "src/index.js",
+  "compatibility_date": "2026-10-16"
+}
